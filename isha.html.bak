@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Frist Web Programging</title>
+</head>
+<body>
+<h1>Isha Ashi</h1>
+<h2>Ashiq Hssain</h2>
+<h3>37404-9674567-3</h3>
+<h4>6 Semester</h4>
+<h5>Islamabad</h5>
+<h6>islam</h6>
+<hr>
+<p>my name is Isha Ashiq.my father name is Ashiq Hussain.I belong from Murree.I have completed my primary and Collage Islamabad Grils ModelS School.Currently i am in 6 semester and doing BSCS from FUUAST Islamabad.I got 3.23 CGPA.In future i want carry out Web Programing and AI.  </p>
+<hr>
+<img src="img.jpg" alt="Girl image" width="200">
+<hr>
+<a href="http://www.google.com" target="-black">GOOGLE</a>
+<hr>
+<a href="https://images.pexels.com/photos/9334434/pexels-photo-9334434.jpeg?cs=srgb&dl=pexels-ali-%C5%9Fenol-9334434.jpg&fm=jpg" target="-black">RELATIVE URL </a>
+<hr>
+<a href="Isha34.html" target="-black">ABSOLUTE URL</a>
+</body>
+</html>
